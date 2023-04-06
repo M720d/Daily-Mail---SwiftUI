@@ -23,3 +23,7 @@ struct DetailView_Previews: PreviewProvider {
     }
 }
 
+
+//kjj
+//jhguy
+
